@@ -1,0 +1,74 @@
+body{
+    background-image: url("bg.jpg");
+    border: #e8e0b4;
+    border-style: groove;
+    border-color: beige;
+    border-radius: 7px;
+    border-width: 3px;
+    background-attachment: fixed;
+    background-size:contain;
+    text-align: justify;
+    color: #ffd700;
+    text-shadow:#e8e0b4 10px;
+    font-size: large;
+    margin: 30px;
+    text-shadow: rgba(146, 184, 228, 0.845) 1px 0 10px;;}
+
+.intro,.Family,.journey ,.Domestic,.ipl,.odi,.capt,.wc,.test,.t20,.double,.awards,.record{
+    border: #e8e0b4;
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+}
+
+
+.footer{
+    text-align: right;
+} 
+div{
+    align-items: center;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+}
+img{
+width: 500px;
+height: 500px;
+background-origin: padding-box;
+border: #ffd700;
+border-width: 5px;
+border-style: ridge;
+margin: 10px;
+float: right;
+opacity: 0.8;
+position:sticky;
+}
+.cont{max-width: 50%;
+    width: 50%;
+    color:#90CAF9;
+    
+    
+margin: 10px;
+    
+    
+    text-align: left;
+}
+h1,h3{
+    text-align: center;
+    
+   
+    
+    font-weight: 40000;
+    font-family: sans-serif;
+    background-attachment: fixed;
+    position:-webkit-sticky;
+    
+}
+ol{
+list-style: square;
+list-style-position: outside;
+line-break: loose;
+}
+footer{
+    text-align: center;
+}
